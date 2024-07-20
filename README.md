@@ -1,5 +1,6 @@
 #  This is repository for Handwritting ocr and detection 
-You can download the model and replace the variable in the inference.ipynb (best-5.pth)
+You can download the model and replace the variable in the inference.ipynb (best-5.pth).
+Downloading the model here: https://drive.google.com/file/d/18PEUMdipSxiOnhLOgvEAqlPmudUhecde/view?usp=share_link
 
 
 
